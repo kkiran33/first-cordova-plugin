@@ -1,0 +1,25 @@
+{
+  "name": "kirantest",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova.plugin.kirantest",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Kiran",
+  "license": "Kiran",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkiran33/first-cordova-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kkiran33/first-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/kkiran33/first-cordova-plugin#readme",
+  "description": ""
+}
